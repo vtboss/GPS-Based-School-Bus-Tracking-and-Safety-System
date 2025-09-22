@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # **Complete Step-by-Step Guide: GPS-Based School Bus Tracking System**
 
 ## **Phase 1: Software Setup \& ESP32 Testing**
